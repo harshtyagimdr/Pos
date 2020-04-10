@@ -63,6 +63,6 @@ $lang["common_unknown"] = "غير معروف";
 $lang["common_view_recent_sales"] = "عرض أحدث المبيعات";
 $lang["common_website"] = "الموقع الإلكترونى";
 $lang["common_welcome"] = "مرحباً";
-$lang["common_welcome_message"] = "مرحباً فى OSPOS برجاء إختيار أى قسم للبدء.";
+$lang["common_welcome_message"] = "مرحباً فى Hyathi برجاء إختيار أى قسم للبدء.";
 $lang["common_you_are_using_ospos"] = "أنت تستخدم إصدار Open Source Point Of Sale";
 $lang["common_zip"] = "الرقم البريدى";

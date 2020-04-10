@@ -63,6 +63,6 @@ $lang["common_unknown"] = "Naməlum";
 $lang["common_view_recent_sales"] = "Son Satışları Göstər";
 $lang["common_website"] = "Web-adres";
 $lang["common_welcome"] = "Xoş Gəlmisiniz";
-$lang["common_welcome_message"] = "OSPOS-a Xoş gəlmisiniz, başlamaq üçün bir modula basın.";
+$lang["common_welcome_message"] = "Hyathi-a Xoş gəlmisiniz, başlamaq üçün bir modula basın.";
 $lang["common_you_are_using_ospos"] = "Open Source Point Of Sale versiyasını istifadə edirsiniz";
 $lang["common_zip"] = "Poçt Kodu";
